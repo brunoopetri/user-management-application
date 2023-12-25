@@ -18,8 +18,8 @@ Frontend: React
 Database: sqlite3
 Installation:
 
-Clone the repository:
-git clone https://github.com/your-username/user-management-application.git
+1.Clone the repository:
+'git clone https://github.com/your-username/user-management-application.git'
 Install the dependencies:
 pip install -r requirements.txt
 Create the database:

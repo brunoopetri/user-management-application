@@ -53,10 +53,10 @@ This application allows you to manage your users efficiently and easily. It has 
     ``http://localhost:3000``
 
 
-• Contributing:
+- Contributing:
 
   Feel free to contribute to the project!
 
-• License:
+- License:
 
   This project is licensed under the MIT license.

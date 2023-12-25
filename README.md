@@ -16,22 +16,23 @@ Technologies:
 Backend: Django Rest Framework
 Frontend: React
 Database: sqlite3
+
 Installation:
 
 1.Clone the repository:
-''git clone https://github.com/your-username/user-management-application.git''
+``git clone https://github.com/your-username/user-management-application.git``
 2.Install the dependencies:
-''pip install -r requirements.txt''
+``pip install -r requirements.txt``
 Create the database:
-python manage.py makemigrations
-python manage.py migrate
+``python manage.py makemigrations``
+``python manage.py migrate``
 Install the frontend dependencies:
-cd userregistration
-npm install
+``cd userregistration``
+``npm install``
 Start the development server:
-npm start
+``npm start``
 Access the application in the browser:
-http://localhost:3000
+``http://localhost:3000``
 Contributing:
 
 Feel free to contribute to the project!

@@ -1,19 +1,19 @@
-- **Project name**
+**Project name**
 
   User management application
 
-- **Description**
+**Description**
 
 This application allows you to manage your users efficiently and easily. It has a Django Rest Framework backend and a React frontend.
 
-- Features:
+**Features**
 
   • User registration
   • User editing
   • User deletion
   • User listing
 
-- Technologies:
+**Technologies**
 
    • Backend: Django Rest Framework
    
@@ -22,7 +22,7 @@ This application allows you to manage your users efficiently and easily. It has 
    • Database: sqlite3
 
 
-- Installation:
+**Installation**
 
 
 1. Clone the repository:
@@ -55,10 +55,10 @@ This application allows you to manage your users efficiently and easily. It has 
     ``http://localhost:3000``
 
 
-- Contributing:
+**Contributing**
 
   Feel free to contribute to the project!
 
-- License:
+**License**
 
   This project is licensed under the MIT license.

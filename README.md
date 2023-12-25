@@ -1,24 +1,24 @@
-Project name: User management application
+• Project name: User management application
 
-Description:
+• Description:
 
 This application allows you to manage your users efficiently and easily. It has a Django Rest Framework backend and a React frontend.
 
-Features:
+• Features:
 
 User registration
 User editing
 User deletion
 User listing
 
-Technologies:
+• Technologies:
 
 Backend: Django Rest Framework
 Frontend: React
 Database: sqlite3
 
 
-Installation:
+• Installation:
 
 
 1. Clone the repository:
@@ -27,22 +27,34 @@ Installation:
 
 
 2. Install the dependencies:
+
 ``pip install -r requirements.txt``
 
 3. Create the database:
+
 ``python manage.py makemigrations``
+
 ``python manage.py migrate``
+
 4. Install the frontend dependencies:
+
 ``cd userregistration``
+
 ``npm install``
+
 5. Start the development server:
+
 ``npm start``
-Access the application in the browser:
+
+6. Access the application in the browser:
+
 ``http://localhost:3000``
-Contributing:
+
+
+• Contributing:
 
 Feel free to contribute to the project!
 
-License:
+• License:
 
 This project is licensed under the MIT license.

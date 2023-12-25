@@ -6,18 +6,18 @@ This application allows you to manage your users efficiently and easily. It has 
 
 • Features:
 
-  User registration
-  User editing
-  User deletion
-  User listing
+  - User registration
+  - User editing
+  - User deletion
+  - User listing
 
 • Technologies:
 
-   Backend: Django Rest Framework
+   - Backend: Django Rest Framework
    
-   Frontend: React
+   - Frontend: React
    
-   Database: sqlite3
+   - Database: sqlite3
 
 
 • Installation:

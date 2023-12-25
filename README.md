@@ -13,9 +13,11 @@ This application allows you to manage your users efficiently and easily. It has 
 
 • Technologies:
 
-  Backend: Django Rest Framework
-  Frontend: React
-  Database: sqlite3
+   Backend: Django Rest Framework
+   
+   Frontend: React
+   
+   Database: sqlite3
 
 
 • Installation:

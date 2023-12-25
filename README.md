@@ -1,26 +1,26 @@
-• Project name: User management application
+- Project name: User management application
 
-• Description:
+- Description:
 
 This application allows you to manage your users efficiently and easily. It has a Django Rest Framework backend and a React frontend.
 
-• Features:
+- Features:
 
-  - User registration
-  - User editing
-  - User deletion
-  - User listing
+  • User registration
+  • User editing
+  • User deletion
+  • User listing
 
-• Technologies:
+- Technologies:
 
-   - Backend: Django Rest Framework
+   • Backend: Django Rest Framework
    
-   - Frontend: React
+   • Frontend: React
    
-   - Database: sqlite3
+   • Database: sqlite3
 
 
-• Installation:
+- Installation:
 
 
 1. Clone the repository:

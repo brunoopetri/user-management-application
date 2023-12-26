@@ -29,7 +29,7 @@
 
 1. Clone the repository:
 
-    ``git clone https://github.com/your-username/user-management-application.git``
+       git clone https://github.com/your-username/user-management-application.git
 
 
 2. Install the dependencies:

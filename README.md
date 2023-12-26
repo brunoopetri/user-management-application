@@ -16,9 +16,9 @@
 
 **Technologies**
 
-        • Backend: Django Rest Framework
-        • Frontend: React
-        • Database: sqlite3
+• Backend: Django Rest Framework
+• Frontend: React
+• Database: sqlite3
 
 
 **Installation**

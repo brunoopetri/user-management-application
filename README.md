@@ -34,27 +34,27 @@
 
 2. Install the dependencies:
 
-       ``pip install -r requirements.txt``
+       pip install -r requirements.txt
 
 3. Create the database:
 
-     ``python manage.py makemigrations``
+       python manage.py makemigrations
 
-     ``python manage.py migrate``
+       python manage.py migrate
 
 4. Install the frontend dependencies:
 
-    ``cd userregistration``
+       cd userregistration
 
-    ``npm install``
+       npm install
 
 5. Start the development server:
 
-    ``npm start``
+       npm start
 
 6. Access the application in the browser:
 
-    ``http://localhost:3000``
+       http://localhost:3000
 
 
 **Contributing**

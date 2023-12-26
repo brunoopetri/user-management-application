@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-brunoopetri-red.svg)](https://www.linkedin.com/in/brunoopetri)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/brunoopetri)
+[![author](https://img.shields.io/badge/author-brunoopetri-red.svg)](https://www.linkedin.com/in/brunoopetri) [![]([https://img.shields.io/badge/python-3.10+-blue.svg](https://github.com/react-native-component/react-native-smart-badge/blob/master/LICENSE))](https://www.python.org/downloads/release/python-3102/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/brunoopetri)
 
 
 **Project name**

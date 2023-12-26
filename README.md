@@ -16,9 +16,9 @@
 
 **Technologies**
 
-• Backend: Django Rest Framework
-• Frontend: React
-• Database: sqlite3
+      • Backend: Django Rest Framework
+      • Frontend: React
+      • Database: sqlite3
 
 
 **Installation**
@@ -56,8 +56,8 @@
 
 **Contributing**
 
-  Feel free to contribute to the project!
+    Feel free to contribute to the project!
 
 **License**
 
-  This project is licensed under the MIT license.
+    This project is licensed under the MIT license.

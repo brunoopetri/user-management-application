@@ -1,10 +1,10 @@
 **Project name**
 
-  User management application
+    User management application
 
 **Description**
 
-This application allows you to manage your users efficiently and easily. It has a Django Rest Framework backend and a React frontend.
+    This application allows you to manage your users efficiently and easily. It has a Django Rest Framework backend and a React frontend.
 
 **Features**
 

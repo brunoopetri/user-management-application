@@ -12,7 +12,7 @@
 
 **Features**
 
-      • User registration
+      __• User registration__
       • User editing
       • User deletion
       • User listing

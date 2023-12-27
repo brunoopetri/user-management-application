@@ -1,5 +1,6 @@
 [![author](https://img.shields.io/badge/author-brunoopetri-red.svg)](https://www.linkedin.com/in/brunoopetri) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/brunoopetri)
 
+![user-management](https://github.com/brunoopetri/user-management-application/assets/98756562/262927aa-60d7-4d62-947c-a4ab6083eed2)
 
 **Project name**
 

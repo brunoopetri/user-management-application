@@ -30,7 +30,7 @@ This application allows you to manage users in your system. You can add new user
 
 * Backend: Django Rest Framework
 * Frontend: React
-   • Database: sqlite3
+* Database: sqlite3
 
 ### Installation
 

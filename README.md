@@ -14,26 +14,25 @@
 This application allows you to manage users in your system. You can add new users, edit existing users, delete users, and list all users.
 
 
-**Description**
+### Description
 
         This application allows you to manage your users efficiently and easily.
         It has a Django Rest Framework backend and a React frontend.
 
-**Features**
+### Features
 
-      • User registration
-      • User editing
-      • User deletion
-      • User listing
+   • User registration
+   • User editing
+   • User deletion
+   • User listing
 
-**Technologies**
+### Technologies
 
-      • Backend: Django Rest Framework
-      • Frontend: React
-      • Database: sqlite3
+   • Backend: Django Rest Framework
+   • Frontend: React
+   • Database: sqlite3
 
-
-**Installation**
+### Installation
 
 
 1. Clone the repository:
@@ -65,11 +64,3 @@ This application allows you to manage users in your system. You can add new user
 
        http://localhost:3000
 
-
-**Contributing**
-
-    Feel free to contribute to the project!
-
-**License**
-
-    This project is licensed under the MIT license.

@@ -12,14 +12,10 @@
 ![user-management](https://github.com/brunoopetri/user-management-application/assets/98756562/262927aa-60d7-4d62-947c-a4ab6083eed2)
 
 
-This application allows you to manage users in your system. You can add new users, edit existing users, delete users, and list all users.
+* This application allows you to manage users in your system. You can add new users, edit existing users, delete users, and list all users.
+* It has a React frontend and a Django Rest Framework backend.
 
-
-### Description
-
-  This application allows you to manage your users efficiently and easily.
-  It has a React frontend and a Django Rest Framework backend.
-
+  
 ### Features
 
 * User registration

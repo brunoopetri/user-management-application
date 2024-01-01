@@ -16,20 +16,20 @@ This application allows you to manage users in your system. You can add new user
 
 ### Description
 
-        This application allows you to manage your users efficiently and easily.
-        It has a Django Rest Framework backend and a React frontend.
+  This application allows you to manage your users efficiently and easily.
+  It has a Django Rest Framework backend and a React frontend.
 
 ### Features
 
-   • User registration
-   • User editing
-   • User deletion
-   • User listing
+* User registration
+* User editing
+* User deletion
+* User listing
 
 ### Technologies
 
-   • Backend: Django Rest Framework
-   • Frontend: React
+* Backend: Django Rest Framework
+* Frontend: React
    • Database: sqlite3
 
 ### Installation

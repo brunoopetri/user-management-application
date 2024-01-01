@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunoopetri"><img src="https://img.shields.io/badge/author-brunoopetri-red.svg" alt="author"></a>
-  <a href="https://www.django-rest-framework.org/"><img src="https://img.shields.io/badge/pypi-v3.14.0-blue" alt="pypi"></a>
+  <a href="https://www.linkedin.com/in/brunoopetri"><img src="https://img.shields.io/badge/author-brunoopetri-red.svg" alt="author"></a>  
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%4018.2.0-blue" alt="react"></a>
+  <a href="https://www.django-rest-framework.org/"><img src="https://img.shields.io/badge/pypi-v3.14.0-blue" alt="pypi"></a>
   <a href="https://github.com/brunoopetri"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions"></a>
 </p>
 

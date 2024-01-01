@@ -66,7 +66,7 @@ This application allows you to manage users in your system. You can add new user
 
 
    <p align="center">
-<a href="https://react.dev/" target="_blank"><img src="" width="33" alt="React Logo"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://github.com/brunoopetri/user-management-application/assets/98756562/df67ca70-b35e-404b-b3c8-f62ab4397f13" width="33" alt="React Logo"></a>
 <a href="https://www.django-rest-framework.org/" target="_blank"><img src="" width="96" alt="Django Rest Framework Logo"></a>
 </p>
 

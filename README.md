@@ -6,10 +6,6 @@
 </p>
 
 
-
-[![author](https://img.shields.io/badge/author-brunoopetri-red.svg)](https://www.linkedin.com/in/brunoopetri) [![](https://img.shields.io/badge/pypi-v3.14.0-blue)](https://www.django-rest-framework.org/) [![](https://img.shields.io/badge/react-%4018.2.0-blue)](https://react.dev/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/brunoopetri)
-
-
 <h2 align="center">User Management web application</h2>
 
 ![user-management](https://github.com/brunoopetri/user-management-application/assets/98756562/262927aa-60d7-4d62-947c-a4ab6083eed2)
